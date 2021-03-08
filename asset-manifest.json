@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/WeatherFinder/static/css/main.04d7121a.chunk.css",
+    "main.js": "/WeatherFinder/static/js/main.1850d3a4.chunk.js",
+    "main.js.map": "/WeatherFinder/static/js/main.1850d3a4.chunk.js.map",
+    "runtime-main.js": "/WeatherFinder/static/js/runtime-main.24f3a953.js",
+    "runtime-main.js.map": "/WeatherFinder/static/js/runtime-main.24f3a953.js.map",
+    "static/js/2.99ef4806.chunk.js": "/WeatherFinder/static/js/2.99ef4806.chunk.js",
+    "static/js/2.99ef4806.chunk.js.map": "/WeatherFinder/static/js/2.99ef4806.chunk.js.map",
+    "index.html": "/WeatherFinder/index.html",
+    "static/css/main.04d7121a.chunk.css.map": "/WeatherFinder/static/css/main.04d7121a.chunk.css.map",
+    "static/js/2.99ef4806.chunk.js.LICENSE.txt": "/WeatherFinder/static/js/2.99ef4806.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/WeatherFinder/static/media/landscape.31180d3b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24f3a953.js",
+    "static/js/2.99ef4806.chunk.js",
+    "static/css/main.04d7121a.chunk.css",
+    "static/js/main.1850d3a4.chunk.js"
+  ]
+}
